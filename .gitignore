@@ -1,0 +1,16 @@
+
+
+webserver/xampp/cgi-bin
+webserver/xampp/contrib
+webserver/xampp/install
+webserver/xampp/licenses
+webserver/xampp/locale
+webserver/xampp/perl
+webserver/xampp/php
+webserver/xampp/phpMyAdmin
+webserver/xampp/tmp
+webserver/xampp/passwords.txt
+
+storage/cache
+
+
